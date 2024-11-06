@@ -1,0 +1,21 @@
+{
+    "festas": [
+      {
+        "id": 1,
+        "nome": "Festa de Aniversário",
+        "convidados": [
+          {"nome": "Ana", "itens": ["Bebidas", "Petiscos"]},
+          {"nome": "Carlos", "itens": ["Carne", "Pão"]}
+        ]
+      },
+      {
+        "id": 2,
+        "nome": "Churrasco de Domingo",
+        "convidados": [
+          {"nome": "Lucas", "itens": ["Refrigerante"]},
+          {"nome": "Beatriz", "itens": ["Salada", "Farofa"]}
+        ]
+      }
+    ]
+  }
+  
